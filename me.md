@@ -1,4 +1,4 @@
-# about me
+# About me
 
 ## Name: Zarnigor
 ## Age: 17
