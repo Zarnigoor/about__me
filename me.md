@@ -5,6 +5,5 @@
 
 # Hobbies
 
-- reading
-- travelling
-
+ - reading
+ - travelling
