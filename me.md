@@ -21,5 +21,5 @@
  
   ##  Contact Me  
 -  Email: [zarnigorumaraliyeva8@gmail.com] 
-- 📱 Telegram: [@innvaluable](https://t.me/innvaluable)  
-- 📷 Instagram: [@innnvaluable](https://instagram.com/innnvaluable)
+-  Telegram: [@innvaluable](https://t.me/innvaluable)  
+-  Instagram: [@innnvaluable](https://instagram.com/innnvaluable)
