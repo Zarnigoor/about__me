@@ -20,6 +20,6 @@
 
  
   ##  Contact Me  
--  Email: [zarnigorumaraliyeva8@gmail.com](mailto: zarnigorumaraliyeva8@gmail.com)   
--  Instagram: [github.com/innnvaluable](https://github.com/innnvaluable)  
+-  Email: [zarnigorumaraliyeva8@gmail.com] 
+-  Instagram: [innnvaluable] 
 -  Telegram: [innvaluable](https://t.me/innvaluable)  
