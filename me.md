@@ -1,9 +1,22 @@
 # About me
 
-## Name: Zarnigor
-## Age: 17
+## Personal information
+- **Full name:** Zarnigor Umaraliyeva.
+- **Age:**17
+- **Current focus:** Learning IT & Programming.
+- **English level:** IELTS 8.0
+- **Status:** Student at high school & Online and Offline English teacher.
+- **Dream Career:** IT Specialist
 
-# Hobbies
+##  Hobbies & Interests  
+-  **Reading:** I love reading detetctive and fantasy books.
+-  **Traveling:** I love exploring new places.
 
- - reading
- - travelling
+##  Goals & Ambitions  
+-  Master at programming.
+-  Earn **multiple IT certifications.**  
+-  Travel the whole world and experience diverse cultures.
+-  Read **50+ books** this year.
+
+ 
+  
