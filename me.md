@@ -2,7 +2,7 @@
 
 ## Personal information
 - **Full name:** Zarnigor Umaraliyeva.
-- **Age:**17
+- **Age:** 17
 - **Current focus:** Learning IT & Programming.
 - **English level:** IELTS 8.0
 - **Status:** Student at high school & Online and Offline English teacher.
@@ -19,4 +19,7 @@
 -  Read **50+ books** this year.
 
  
-  
+  ##  Contact Me  
+-  Email: [zarnigorumaraliyeva8@gmail.com](mailto: zarnigorumaraliyeva8@gmail.com)   
+-  Instagram: [github.com/innnvaluable](https://github.com/innnvaluable)  
+-  Telegram: [innvaluable](https://t.me/innvaluable)  
